@@ -3,3 +3,4 @@ id,user_id,order_date,status
 1, 2, june, cancelled
 1, 3, june, shipped
 1, 4, may, cancelled
+68,53,"2018-03-11",completed
