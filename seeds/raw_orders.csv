@@ -1,2 +1,3 @@
 id,user_id,order_date,status
 1, 1, may, shipped
+1, 2, june, cancelled
